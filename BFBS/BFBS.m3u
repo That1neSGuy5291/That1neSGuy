@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,BBC One
+https://d20opqftbkv2z0.cloudfront.net/live11/bbcone/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,BBC Scotland
+https://d20opqftbkv2z0.cloudfront.net/live12/bbcscotland/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,BBC Two
+https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,BBC Three
+https://d20opqftbkv2z0.cloudfront.net/live15/bbcthree/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,BBC News
+https://d20opqftbkv2z0.cloudfront.net/live16/bbcnews/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,ITV
+https://d20opqftbkv2z0.cloudfront.net/live17/itv/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,CBeebies
+https://d20opqftbkv2z0.cloudfront.net/live15/cbeebies/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,ITV2
+https://d20opqftbkv2z0.cloudfront.net/live16/itv2/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,ITV Be
+https://d20opqftbkv2z0.cloudfront.net/live17/itvbe/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,ITV4
+https://d20opqftbkv2z0.cloudfront.net/live16/itv4/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,Channel 4
+https://d20opqftbkv2z0.cloudfront.net/live14/channel4/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,More4
+https://d20opqftbkv2z0.cloudfront.net/live16/more4/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,Channel 5
+https://d20opqftbkv2z0.cloudfront.net/live18/channel5/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,Nickelodeon UK
+https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,Nick Jr UK
+https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,NickToons UK
+https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,Sky News UK
+https://d20opqftbkv2z0.cloudfront.net/live11/skynews/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,CBBC
+https://d20opqftbkv2z0.cloudfront.net/live10/cbbc/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,LFC TV
+https://d20opqftbkv2z0.cloudfront.net/live15/lfctv/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1,MUTV
+https://d20opqftbkv2z0.cloudfront.net/live13/mutv/bitrate1-clear.isml/live.m3u8
